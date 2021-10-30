@@ -1,0 +1,19 @@
+{
+  "name": "plexbot-1.4",
+  "version": "1.4.0",
+  "description": "Bot para Telegram y Plex",
+  "main": "constants.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavierMelguizo/plexbot.git"
+  },
+  "author": "Javier Melguizo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JavierMelguizo/plexbot/issues"
+  },
+  "homepage": "https://github.com/JavierMelguizo/plexbot#readme"
+}
